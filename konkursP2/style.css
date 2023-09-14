@@ -1,0 +1,41 @@
+*{
+    border: 1px solid black;
+    background-color: rgb(185, 196, 206);
+    margin: 0px;
+    color: rgb(77, 118, 155);
+}
+.pudmleko{
+    width: 100vw;
+    height: 100vh;
+}
+.gora{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+.tekst{
+    display: flex;
+    align-items: center;
+}
+.input{
+   width: 100%;
+   height: 40%;
+}
+.tekst{
+    width: 40%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+}
+#wpisz{
+    width: 70%;
+    height: 80%;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
